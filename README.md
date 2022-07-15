@@ -43,7 +43,7 @@ O deploy dessa aplicação foi realizado na Vercel, então acesse a URL [Vercel]
 
 ## License
 
-[MIT]()
+[MIT](https://github.com/hash-luk/feedget/blob/main/LICENSE)
 
 <br />
 
